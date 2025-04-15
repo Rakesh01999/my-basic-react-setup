@@ -1,5 +1,5 @@
 # My Basic React Setup (sample setup project)
-🔦light desc:
+🔦light details:
 This repository contains a basic React setup using Vite with TypeScript. It is designed to serve as a starter template for React projects, providing a fast and efficient development environment.
 
 ## Features
